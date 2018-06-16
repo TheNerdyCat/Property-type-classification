@@ -1,4 +1,4 @@
-# Application-basis-classification
+# Income-basis-classification
 
 Time to have some fun with ***supervised machine learning classification and mortgage data!***
 
